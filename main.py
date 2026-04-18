@@ -69,7 +69,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>W0LF XD HERE</title>
+  <title>OWNER SURAJ XD HERE</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -116,7 +116,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">➳ᴏᴡɴᴇʀ ᴡᴏʟғ ✘ᴅ ʜᴇʀᴇ☜⏎</h1>
+    <h1 class="mt-3">➳OWNER SURAJ XD HERE☜⏎</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -162,7 +162,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2025 ᴍᴀᴅᴇ ʙʏ ➳ᴏᴡɴᴇʀ ᴡᴏʟғ ✘ᴅ☜⏎</p>
+    <p>© 2026 ᴍᴀᴅᴇ ʙʏ ➳ᴏᴡɴᴇʀ ꜱᴜʀᴀᴊ ✘ᴅ☜⏎</p>
     <p><a href="https://www.facebook.com/share/1Cokw76aEm/">ᴄʟɪᴄᴋ ғᴏʀ ғᴀᴄʙᴏᴏᴋ☜</a></p>
     <div class="mb-3">
       <a href="https://bit.ly/3V3bDbl" class="whatsapp-link">
